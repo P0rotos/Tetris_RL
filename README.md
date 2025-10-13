@@ -8,3 +8,7 @@ o bien
 pip install "stable-baselines3[extra]"
 pip install tetris-gymnasium
 en ese orden
+
+
+
+test push firebase studio
