@@ -18,8 +18,8 @@ Ademas para hacer funcionar CnnPolicy es necesario modificar RgbObservation dent
           |_wrappers
             |_observation.py <-------
 
-Aqui Cambiar self.observation_space la variable high a 255 en ves de tetrimonio
-
+Aqui en __init__ de RgbObservation Cambiar self.observation_space la variable high a 255 en ves de tetrimonio
+ademas en render cambiar self.render_scaling_factor por 20 
 
 
 test push firebase studio
