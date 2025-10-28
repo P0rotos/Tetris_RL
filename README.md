@@ -7,6 +7,7 @@ Puedes instalarse usando pip install -r requirements.txt
 o bien 
 pip install "stable-baselines3[extra]"
 pip install tetris-gymnasium
+pip install gymnasium[other]
 en ese orden
 
 Ademas para hacer funcionar CnnPolicy es necesario modificar RgbObservation dentro de testris-gymnasium
